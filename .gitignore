@@ -20,10 +20,7 @@ lib64/
 parts/
 sdist/
 var/
-<<<<<<< HEAD
 wheels/
-=======
->>>>>>> 6c33ad553df56a3ac43411efb3e4d426f17ea848
 *.egg-info/
 .installed.cfg
 *.egg
@@ -70,11 +67,7 @@ docs/_build/
 # PyBuilder
 target/
 
-<<<<<<< HEAD
-# Jupyter Notebook
-=======
 # IPython Notebook
->>>>>>> 6c33ad553df56a3ac43411efb3e4d426f17ea848
 .ipynb_checkpoints
 
 # pyenv
@@ -83,20 +76,14 @@ target/
 # celery beat schedule file
 celerybeat-schedule
 
-<<<<<<< HEAD
 # SageMath parsed files
 *.sage.py
 
-=======
->>>>>>> 6c33ad553df56a3ac43411efb3e4d426f17ea848
 # dotenv
 .env
 
 # virtualenv
-<<<<<<< HEAD
 .venv
-=======
->>>>>>> 6c33ad553df56a3ac43411efb3e4d426f17ea848
 venv/
 ENV/
 
@@ -105,10 +92,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
-<<<<<<< HEAD
 
 # ide
 .idea/
 
-=======
->>>>>>> 6c33ad553df56a3ac43411efb3e4d426f17ea848
